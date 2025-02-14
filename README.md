@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Python.  The function `function_with_uncommon_error` attempts a division by zero if the input is 0. However, the conditional statement might lead to unexpected behavior if one doesn't carefully consider the order of operations or the potential for exceptions.
